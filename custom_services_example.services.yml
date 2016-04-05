@@ -1,0 +1,3 @@
+services:
+  custom_services_example.say_hello:
+    class: Drupal\custom_services_example\HelloServices

@@ -1,0 +1,5 @@
+name: Custom Service Example
+type: module
+description: The module provide the sample code to define  your service from  your custom module.
+core: 8.x
+package: Examples
